@@ -41,5 +41,5 @@ get_random_colour:
     pop bx
     ret
 
-txt_title_msg   db 'MikeOS Text Editor', 0
+txt_title_msg   db 'Ajey Bharadwaj A Text Editor', 0
 
