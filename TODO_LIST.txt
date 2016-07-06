@@ -1,0 +1,2 @@
+1. Create a terminal with some commands.
+2. Write a small compiler which supports basic commands in C style.
